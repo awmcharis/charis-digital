@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); */
+}
+
+main {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+    color: black;
+    letter-spacing: 2px;
+}
+
+img {
+    width: 50%;
+    height: auto;
+    margin-top: 20px;
+}
